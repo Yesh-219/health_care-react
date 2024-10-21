@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/health_care-react/static/css/main.c1ec274d.css",
+    "main.js": "/health_care-react/static/js/main.f3037e1e.js",
+    "static/js/453.6a17e5ba.chunk.js": "/health_care-react/static/js/453.6a17e5ba.chunk.js",
+    "static/media/pediatrics.png": "/health_care-react/static/media/pediatrics.6dc87b120f7bff83fc3a.png",
+    "static/media/orthopedics.png": "/health_care-react/static/media/orthopedics.8007bad50cf0d2f4bd32.png",
+    "static/media/general-medicine.png": "/health_care-react/static/media/general-medicine.f9a385a4b03f991f66bb.png",
+    "static/media/hero-image.png": "/health_care-react/static/media/hero-image.f79401b2117845037c0c.png",
+    "static/media/about-us.png": "/health_care-react/static/media/about-us.28bbea688fe0f2494aea.png",
+    "static/media/doctor-2.png": "/health_care-react/static/media/doctor-2.4a941f4d34635d57bc2e.png",
+    "static/media/doctor-3.png": "/health_care-react/static/media/doctor-3.cc9168046c2cadc1c5c3.png",
+    "static/media/doctor-1.png": "/health_care-react/static/media/doctor-1.065f54e014bf33246aff.png",
+    "static/media/doctor-4.png": "/health_care-react/static/media/doctor-4.ea16f6bcd4d1ac068b82.png",
+    "index.html": "/health_care-react/index.html",
+    "main.c1ec274d.css.map": "/health_care-react/static/css/main.c1ec274d.css.map",
+    "main.f3037e1e.js.map": "/health_care-react/static/js/main.f3037e1e.js.map",
+    "453.6a17e5ba.chunk.js.map": "/health_care-react/static/js/453.6a17e5ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ec274d.css",
+    "static/js/main.f3037e1e.js"
+  ]
+}
